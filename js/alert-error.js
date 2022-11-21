@@ -4,6 +4,7 @@ export const AlertError = {
     AlertError.element.classList.add('open');
   },
   close() {
-    AlertError.element.classList.remove('open')
+    AlertError.element.classList.remove('open');
+     
   }
 }
